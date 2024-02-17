@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?AutomationStudio FileVersion="4.9"?>
+<BR.AS.HardwareTopology>
+  <TimeStamps>
+    <TimeStamp LogicalPath="Config1.Hardware.hw" LastWriteTime="01/06/2024 11:02:05" />
+  </TimeStamps>
+  <Modules>
+    <Module Name="4PPC70_0573_23W" Type="4PPC70.0573-23W" X="100" Y="100" />
+    <Module Name="X20PS9600" Type="X20PS9600" X="272.4" Y="100" />
+    <Module Name="X20TB12" Type="X20TB12" X="272.4" Y="127" />
+    <Module Name="X20CS1030" Type="X20CS1030" X="285.4" Y="100" />
+    <Module Name="X20TB12a" Type="X20TB12" X="285.4" Y="127" />
+  </Modules>
+  <Links />
+  <InfoElements />
+</BR.AS.HardwareTopology>

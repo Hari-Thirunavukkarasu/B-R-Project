@@ -1,0 +1,7 @@
+VAR
+	Terminal : Terminal_Types;
+	send_buffer : UDINT;
+	SENDBUFFER : ARRAY[0..254] OF USINT;
+	SENDBUFFER_length : UINT;
+	READBUFFER_1 : ARRAY[0..24] OF UDINT;
+END_VAR
